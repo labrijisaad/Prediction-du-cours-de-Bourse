@@ -1,5 +1,9 @@
 # Stock Price Forecasting 📈🔮
 
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/74627083/208255680-2cf22459-f81c-40d0-871e-8fde83ba2295.png" width="70%"/>
+</p>
+
 In this project, we use `Python` and `machine learning algorithms` to perform `time series analysis and forecasting` on the `stock prices of Apple Inc` (AAPL). The project is divided into several sections:
 
 1. 📈 **Preparing Historic Pricing Data:** We begin by preprocessing the data, which involves cleaning and preparing the stock price data for analysis.
