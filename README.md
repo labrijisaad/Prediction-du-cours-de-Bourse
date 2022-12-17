@@ -1,5 +1,9 @@
 # Stock Price Forecasting
 
+> - 🙌 Notebook made by [@labriji_saad](https://github.com/labrijisaad)
+> - 🔗 Linledin [@labriji_saad](https://www.linkedin.com/in/labrijisaad/)
+> - 📫 Feel free to contact me if anything is wrong or if anything needs to be changed 😎!  **labrijisaad@gmail.com**
+
 In this project, we use `Python` and `machine learning algorithms` to perform `time series analysis and forecasting` on the `stock prices of Apple Inc` (AAPL). The project is divided into several sections:
 
 1. 📈 **Preparing Historic Pricing Data:** We begin by preprocessing the data, which involves cleaning and preparing the stock price data for analysis.
@@ -46,6 +50,3 @@ The project is organized as follows:
 - `notebooks/`: This directory contains the Jupyter notebook with the code and results of the project.
 
 
-> - 🙌 Notebook made by [@labriji_saad](https://github.com/labrijisaad)
-> - 🔗 Linledin [@labriji_saad](https://www.linkedin.com/in/labrijisaad/)
-- 📫 Feel free to contact me if anything is wrong or if anything needs to be changed 😎!  **labrijisaad@gmail.com**
