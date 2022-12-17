@@ -1,7 +1,7 @@
 # Stock Price Forecasting 📈🔮
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/74627083/208255680-2cf22459-f81c-40d0-871e-8fde83ba2295.png" width="70%"/>
+  <img src="https://user-images.githubusercontent.com/74627083/208255680-2cf22459-f81c-40d0-871e-8fde83ba2295.png" width="70%"/>
 </p>
 
 In this project, we use `Python` and `machine learning algorithms` to perform `time series analysis and forecasting` on the `stock prices of Apple Inc` (AAPL). The project is divided into several sections:
@@ -13,10 +13,10 @@ In this project, we use `Python` and `machine learning algorithms` to perform `t
 3. 📊 **Data Visualization:** We use various data visualization techniques to better understand the data and identify patterns or trends.
 
 4. 🤖 **Model Development:** We develop four different forecasting models using the following algorithms:
-   - 🧠 **Algorithm 1: Long Short-Term Memory (LSTM)**
-   - 📈 **Algorithm 2: Linear Regression with pandas_ta**
-   - 💻 **Algorithm 3: Support Vector Machines (SVM)**
-   - 📊 **Algorithm 4: Autoregressive Integrated Moving Average (ARIMA)**
+   - 🧠 **`Algorithm 1`: Long Short-Term Memory (LSTM)**
+   - 📈 **`Algorithm 2`: Linear Regression with pandas_ta**
+   - 💻 **`Algorithm 3`: Support Vector Machines (SVM)**
+   - 📊 **`Algorithm 4`: Autoregressive Integrated Moving Average (ARIMA)**
 
 5. 📈 **Model Performance:** We compare the performance of the different models and discuss the implications of our findings.
 
@@ -31,6 +31,7 @@ To get started with this project, you will need to have `Python 3` and the follo
 - `matplotlib`
 - `scikit-learn`
 - `pandas_ta`
+- `ta-lib`
 - `Keras` (with `TensorFlow` backend)
 
 You can install these packages using `pip`. For example, to install `NumPy` and `pandas`, you can use the following command:
