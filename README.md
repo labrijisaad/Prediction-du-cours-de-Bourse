@@ -44,3 +44,8 @@ The project is organized as follows:
 
 - `data/`: This directory contains the stock price data that we will use for the analysis.
 - `notebooks/`: This directory contains the Jupyter notebook with the code and results of the project.
+
+
+> - 🙌 Notebook made by [@labriji_saad](https://github.com/labrijisaad)
+> - 🔗 Linledin [@labriji_saad](https://www.linkedin.com/in/labrijisaad/)
+- 📫 Feel free to contact me if anything is wrong or if anything needs to be changed 😎!  **labrijisaad@gmail.com**
