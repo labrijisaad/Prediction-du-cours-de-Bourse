@@ -1,8 +1,4 @@
-# Stock Price Forecasting
-
-> - 🙌 Notebook made by [@labriji_saad](https://github.com/labrijisaad)
-> - 🔗 Linledin [@labriji_saad](https://www.linkedin.com/in/labrijisaad/)
-> - 📫 Feel free to contact me if anything is wrong or if anything needs to be changed 😎!  **labrijisaad@gmail.com**
+# Stock Price Forecasting 📈🔮
 
 In this project, we use `Python` and `machine learning algorithms` to perform `time series analysis and forecasting` on the `stock prices of Apple Inc` (AAPL). The project is divided into several sections:
 
@@ -35,12 +31,10 @@ To get started with this project, you will need to have `Python 3` and the follo
 
 You can install these packages using `pip`. For example, to install `NumPy` and `pandas`, you can use the following command:
 
-```
+```python3
 pip install numpy pandas
 ```
-
-
-Once you have the required packages installed, you can clone this repository and navigate to the project directory. From there, you can run the Jupyter notebook `stock_forecasting.ipynb` to see the code and results of the project.
+Once you have the required packages installed, you can clone this repository and navigate to the project directory. From there, you can run the Jupyter notebook `Final document - Technical Analysis of AAPL Stocks.ipynb` to see the code and results of the project.
 
 ## Project Structure
 
@@ -49,4 +43,8 @@ The project is organized as follows:
 - `data/`: This directory contains the stock price data that we will use for the analysis.
 - `notebooks/`: This directory contains the Jupyter notebook with the code and results of the project.
 
+## Author
 
+> - 🙌 Notebook made by [@labriji_saad](https://github.com/labrijisaad)
+> - 🔗 Linledin [@labriji_saad](https://www.linkedin.com/in/labrijisaad/)
+> - 📫 Feel free to contact me if anything is wrong or if anything needs to be changed 😎!  **labrijisaad@gmail.com**
