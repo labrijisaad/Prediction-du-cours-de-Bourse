@@ -51,5 +51,5 @@ The project is organized as follows:
 ## Author
 
 > - 🙌 Notebook made by [@labriji_saad](https://github.com/labrijisaad)
-> - 🔗 Linledin [@labriji_saad](https://www.linkedin.com/in/labrijisaad/)
+> - 🔗 Linkedin [@labriji_saad](https://www.linkedin.com/in/labrijisaad/)
 > - 📫 Feel free to contact me if anything is wrong or if anything needs to be changed 😎!  **labrijisaad@gmail.com**
